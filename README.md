@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Olá, eu sou Jonas Passos
 
-<!--
-**JonasPassos/JonasPassos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desenvolvedor Backend em formação, apaixonado por criar APIs eficientes e escaláveis com C# e .NET.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que uso:
+- 🧠 C#, ASP.NET Core, .NET
+- 💾 SQL Server, PostgreSQL
+- 🔐 JWT, APIs RESTful, Entity Framework
+- 📂 Git & GitHub para versionamento
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠️ Atualmente estou:
+- Aprimorando meus conhecimentos em arquitetura de APIs
+- Procurando oportunidades como Desenvolvedor Júnior ou Estagiário
+
+## 📫 Contato
+- [LinkedIn](https://www.linkedin.com/in/jonaspassos-dev)
+- [GitHub](https://github.com/JonasPassos)
